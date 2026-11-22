@@ -8,6 +8,7 @@ This is a learning reference for `Hello, World!` in many programming languages. 
 - [C++](cpp/) - adds classes and templates to C and is used where control and speed matter.
 - [Rust](rust/) - compiled language that prevents memory errors without a garbage collector.
 - [Go](go/) - simple compiled language built for network services and tools.
+- [Goose](goose/) - memory-safe systems language with no heap allocator or garbage collector.
 - [Zig](zig/) - low level language made to replace C with explicit control over memory.
 - [Nim](nim/) - compiled language with Python like syntax.
 - [D](d/) - compiled language that keeps C compatibility while adding higher level features.
