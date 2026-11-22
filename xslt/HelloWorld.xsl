@@ -1,0 +1,11 @@
+<!--
+  XSLT
+  XSLT is a language for transforming XML documents.
+  Run: xsltproc HelloWorld.xsl /dev/null
+  Docs: https://www.w3.org/TR/xslt/
+-->
+
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+  <xsl:output method="text"/>
+  <xsl:template match="/">Hello, World!</xsl:template>
+</xsl:stylesheet>

@@ -1,0 +1,6 @@
+(: XPath
+   XPath is an expression language for selecting parts of an XML document.
+   Run: basex HelloWorld.xp
+   Docs: https://www.w3.org/TR/xpath-31/ :)
+
+"Hello, World!"

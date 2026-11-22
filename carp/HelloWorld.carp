@@ -1,0 +1,7 @@
+; Carp
+; Carp is a Lisp that compiles to C for systems code.
+; Run: carp -x HelloWorld.carp
+; Docs: https://carp-lang.org/
+
+(defn main []
+  (println "Hello, World!"))

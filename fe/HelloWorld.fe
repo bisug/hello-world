@@ -1,0 +1,11 @@
+# Fe
+# Fe is an experimental smart contract language for Ethereum.
+# Run: (Requires project scaffold) fe build
+# Docs: https://github.com/ethereum/fe
+
+event Hello:
+    message: String[13]
+
+@external
+def main():
+    log Hello(message="Hello, World!")

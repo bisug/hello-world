@@ -1,0 +1,6 @@
+// Oil shell
+// Oil shell is a Unix shell with a typed language called YSH.
+// Run: ysh HelloWorld.ysh
+// Docs: https://www.oilshell.org/
+
+echo "Hello, World!"

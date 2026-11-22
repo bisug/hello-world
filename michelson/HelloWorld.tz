@@ -1,0 +1,15 @@
+// Michelson
+// Michelson is the contract language of Tezos.
+// Run: tezos-client typecheck script HelloWorld.tz
+// Docs: https://tezos.gitlab.io/michelson/
+
+parameter unit;
+storage unit;
+code {
+    CAR;
+    PUSH string "Hello, World!";
+    DROP;
+    UNIT;
+    NIL operation;
+    PAIR
+}

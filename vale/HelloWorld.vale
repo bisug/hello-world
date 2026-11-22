@@ -1,0 +1,8 @@
+// Vale
+// Vale explores memory safety without a borrow checker.
+// Run: Compile with the Vale compiler
+// Docs: https://vale.dev/
+
+fun main() {
+    println("Hello, World!")
+}

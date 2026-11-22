@@ -1,0 +1,7 @@
+-- Unison
+-- Unison stores code by its content instead of by file name.
+-- Run: unison run HelloWorld.u
+-- Docs: https://www.unison-lang.org/
+
+main = do
+    printLine "Hello, World!"

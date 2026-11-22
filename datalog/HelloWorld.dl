@@ -1,0 +1,8 @@
+% Datalog
+% Datalog is a declarative language for logic over relations.
+% Run: souffle HelloWorld.dl
+% Docs: https://souffle-lang.github.io/
+
+.decl hello(s: symbol)
+hello("Hello, World!").
+.output hello

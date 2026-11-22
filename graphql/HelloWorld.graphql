@@ -1,0 +1,8 @@
+# GraphQL
+# GraphQL is a query language for reading data from APIs.
+# Run: Requires a GraphQL server with a hello field
+# Docs: https://graphql.org/
+
+query HelloWorld {
+  hello
+}

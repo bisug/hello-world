@@ -1,0 +1,8 @@
+// Hylo
+// Hylo is a safe systems language built from research on value semantics.
+// Run: hylo run HelloWorld.hylo
+// Docs: https://www.hylo-lang.org/
+
+public fun main() {
+    print("Hello, World!")
+}

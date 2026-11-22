@@ -1,0 +1,8 @@
+// Effekt
+// Effekt is a functional language with effect handlers.
+// Run: effekt HelloWorld.effekt
+// Docs: https://effekt-lang.org/
+
+def main(): Unit = {
+    println("Hello, World!")
+}
