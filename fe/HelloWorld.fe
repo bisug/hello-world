@@ -1,5 +1,6 @@
 # Fe
 # Fe is an experimental smart contract language for Ethereum.
+# Type: compiled
 # Run: (Requires project scaffold) fe build
 # Docs: https://github.com/ethereum/fe
 

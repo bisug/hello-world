@@ -1,5 +1,6 @@
 // C
 // C is a small compiled language used for systems code and embedded programs.
+// Type: compiled
 // Run: gcc HelloWorld.c -o hello && ./hello
 // Docs: https://www.open-std.org/jtc1/sc22/wg14/
 

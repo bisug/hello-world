@@ -1,5 +1,6 @@
 // F#
 // F# is a functional language on .NET.
+// Type: jit
 // Run: dotnet fsi HelloWorld.fsx
 // Docs: https://learn.microsoft.com/en-us/dotnet/fsharp/
 

@@ -1,5 +1,6 @@
 // Zig
 // Zig is a low level language made to replace C with explicit control over memory.
+// Type: compiled
 // Run: zig run HelloWorld.zig
 // Docs: https://ziglang.org/
 

@@ -1,5 +1,6 @@
 // HLSL
 // HLSL writes shaders for DirectX.
+// Type: compiled
 // Run: Compile with a DirectX shader compiler
 // Docs: https://learn.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl
 

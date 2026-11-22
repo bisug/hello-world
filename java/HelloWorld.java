@@ -1,5 +1,6 @@
 // Java
 // Java runs on the JVM and is used for large server applications.
+// Type: jit
 // Run: javac HelloWorld.java && java HelloWorld
 // Docs: https://www.oracle.com/java/
 

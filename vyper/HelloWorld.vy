@@ -1,5 +1,6 @@
 # Vyper
 # Vyper is a Python like language for Ethereum contracts.
+# Type: compiled
 # Run: vyper HelloWorld.vy
 # Docs: https://vyper.readthedocs.io/
 

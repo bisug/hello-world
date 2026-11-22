@@ -1,5 +1,6 @@
 # AWK
 # AWK processes text files one line at a time.
+# Type: interpreted
 # Run: awk -f HelloWorld.awk
 # Docs: https://www.gnu.org/software/gawk/
 

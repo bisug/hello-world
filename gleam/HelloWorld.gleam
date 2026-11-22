@@ -1,5 +1,6 @@
 // Gleam
 // Gleam is a typed functional language for the Erlang VM and JavaScript.
+// Type: transpiled
 // Run: gleam run
 // Docs: https://gleam.run/
 

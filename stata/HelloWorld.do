@@ -1,5 +1,6 @@
 // Stata
 // Stata is used for econometrics and panel data.
+// Type: interpreted
 // Run: stata -b do HelloWorld.do
 // Docs: https://www.stata.com/
 

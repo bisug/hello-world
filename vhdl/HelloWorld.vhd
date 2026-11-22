@@ -1,5 +1,6 @@
 -- VHDL
 -- VHDL is a hardware description language used in chip design.
+-- Type: hardware
 -- Run: ghdl -a HelloWorld.vhd
 -- Docs: https://www.eda-twiki.org/cgi-bin/view.cgi/P1076/VHDL1993
 

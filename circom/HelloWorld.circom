@@ -1,5 +1,6 @@
 // Circom
 // Circom describes arithmetic circuits for zero knowledge proofs.
+// Type: compiled
 // Run: circom HelloWorld.circom
 // Docs: https://docs.circom.io/
 

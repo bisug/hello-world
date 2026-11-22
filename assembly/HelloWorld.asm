@@ -1,5 +1,6 @@
 ; Assembly
 ; Assembly speaks directly to the CPU and is used when every instruction counts.
+; Type: compiled
 ; Run: nasm -felf64 HelloWorld.asm && ld HelloWorld.o -o hello && ./hello
 ; Docs: https://www.nasm.us/
 

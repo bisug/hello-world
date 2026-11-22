@@ -1,5 +1,6 @@
 // Mercury
 // Mercury is a logic language with static types and modes.
+// Type: compiled
 // Run: mmc HelloWorld.m && ./HelloWorld
 // Docs: https://mercurylang.org/
 

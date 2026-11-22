@@ -1,5 +1,6 @@
 // Move
 // Move is a language for digital assets on blockchains.
+// Type: compiled
 // Run: (Requires project scaffold) aptos move compile
 // Docs: https://move-language.github.io/move/
 

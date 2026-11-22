@@ -1,5 +1,6 @@
 // TypeScript
 // TypeScript adds static types to JavaScript.
+// Type: transpiled
 // Run: tsc HelloWorld.ts && node HelloWorld.js
 // Docs: https://www.typescriptlang.org/
 

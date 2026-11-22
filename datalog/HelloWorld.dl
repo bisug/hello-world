@@ -1,5 +1,6 @@
 % Datalog
 % Datalog is a declarative language for logic over relations.
+% Type: query
 % Run: souffle HelloWorld.dl
 % Docs: https://souffle-lang.github.io/
 

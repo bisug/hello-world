@@ -1,5 +1,6 @@
 // Elixir
 // Elixir runs on the Erlang VM with a Ruby like syntax.
+// Type: jit
 // Run: elixir HelloWorld.exs
 // Docs: https://elixir-lang.org/
 

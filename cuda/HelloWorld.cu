@@ -1,5 +1,6 @@
 // CUDA
 // CUDA runs C like code on NVIDIA GPUs.
+// Type: compiled
 // Run: nvcc HelloWorld.cu -o hello && ./hello
 // Docs: https://developer.nvidia.com/cuda-zone
 

@@ -1,5 +1,6 @@
 // Odin
 // Odin is a C style language built for games and clear data layouts.
+// Type: compiled
 // Run: odin run HelloWorld.odin -file
 // Docs: https://odin-lang.org/
 

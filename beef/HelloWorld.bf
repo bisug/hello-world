@@ -1,5 +1,6 @@
 // Beef
 // Beef is a systems language focused on games and manual memory control.
+// Type: compiled
 // Run: Open the file in the Beef IDE and run it
 // Docs: https://www.beeflang.org/
 

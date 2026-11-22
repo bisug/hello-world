@@ -1,5 +1,6 @@
 // Cairo
 // Cairo writes programs with provable execution for Starknet.
+// Type: compiled
 // Run: (Requires project scaffold) scarb build
 // Docs: https://www.cairo-lang.org/
 

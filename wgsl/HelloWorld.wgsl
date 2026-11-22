@@ -1,5 +1,6 @@
 // WGSL
 // WGSL is the shader language of WebGPU.
+// Type: compiled
 // Run: Use a WebGPU enabled browser
 // Docs: https://www.w3.org/TR/WGSL/
 

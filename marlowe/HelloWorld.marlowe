@@ -1,5 +1,6 @@
 # Marlowe
 # Marlowe is a domain language for financial contracts on Cardano.
+# Type: contract
 # Run: (Requires project scaffold) marlowe-cli run
 # Docs: https://developers.cardano.org/docs/build/smart-contracts/languages/marlowe/
 

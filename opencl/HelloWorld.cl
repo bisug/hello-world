@@ -1,5 +1,6 @@
 // OpenCL
 // OpenCL runs code across CPUs, GPUs, and other devices.
+// Type: compiled
 // Run: Compile with an OpenCL compiler
 // Docs: https://www.khronos.org/opencl/
 

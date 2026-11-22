@@ -1,5 +1,6 @@
 // Solidity
 // Solidity writes smart contracts for Ethereum.
+// Type: compiled
 // Run: solc HelloWorld.sol
 // Docs: https://soliditylang.org/
 

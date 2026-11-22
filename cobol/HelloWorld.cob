@@ -1,5 +1,6 @@
 *> COBOL
 *> COBOL handles business records and still runs in banking systems.
+*> Type: compiled
 *> Run: cobc -x HelloWorld.cob && ./HelloWorld
 *> Docs: https://www.gnu.org/software/gnucobol/
 

@@ -1,5 +1,6 @@
 -- Ada
 -- Ada is a strict language used in avionics and other safety critical systems.
+-- Type: compiled
 -- Run: gnatmake HelloWorld.adb && ./helloworld
 -- Docs: https://www.adaic.org/
 

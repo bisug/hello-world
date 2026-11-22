@@ -1,5 +1,6 @@
 -- Agda
 -- Agda is a proof assistant built on dependent types.
+-- Type: compiled
 -- Run: agda HelloWorld.agda
 -- Docs: https://agda.readthedocs.io/
 

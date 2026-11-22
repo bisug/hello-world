@@ -1,5 +1,6 @@
 [Inform
 Inform is a language for writing interactive fiction.
+Type: interpreted
 Run: inform7 HelloWorld.ni
 Docs: https://inform7.com/]
 

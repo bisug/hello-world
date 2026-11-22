@@ -1,5 +1,6 @@
 ⍝ Kap
 ⍝ Kap is a modern array language in the APL family.
+⍝ Type: interpreted
 ⍝ Run: kap HelloWorld.kap
 ⍝ Docs: https://github.com/kapitaali/kap
 

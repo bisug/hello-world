@@ -1,5 +1,6 @@
 // ATS
 // ATS is a systems language with dependent types for proving program properties.
+// Type: compiled
 // Run: patscc HelloWorld.dats -o hello && ./hello
 // Docs: https://www.ats-lang.org/
 

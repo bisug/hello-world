@@ -1,5 +1,6 @@
 // Noir
 // Noir is a language for zero knowledge circuits.
+// Type: compiled
 // Run: (Requires project scaffold) nargo compile
 // Docs: https://noir-lang.org/
 

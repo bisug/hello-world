@@ -1,5 +1,6 @@
 // Hylo
 // Hylo is a safe systems language built from research on value semantics.
+// Type: compiled
 // Run: hylo run HelloWorld.hylo
 // Docs: https://www.hylo-lang.org/
 

@@ -1,5 +1,6 @@
 ;; WebAssembly text
 ;; WAT is the text form of WebAssembly modules.
+;; Type: compiled
 ;; Run: wat2wasm HelloWorld.wat
 ;; Docs: https://webassembly.org/
 

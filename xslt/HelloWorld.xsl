@@ -1,6 +1,7 @@
 <!--
   XSLT
   XSLT is a language for transforming XML documents.
+  Type: query
   Run: xsltproc HelloWorld.xsl /dev/null
   Docs: https://www.w3.org/TR/xslt/
 -->

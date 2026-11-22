@@ -1,5 +1,6 @@
 // Chisel
 // Chisel builds hardware using Scala code.
+// Type: hardware
 // Run: (Requires project scaffold) sbt run
 // Docs: https://www.chisel-lang.org/
 

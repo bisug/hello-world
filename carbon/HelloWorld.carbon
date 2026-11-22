@@ -1,5 +1,6 @@
 // Carbon
 // Carbon is an experiment in a successor to C++.
+// Type: compiled
 // Run: Carbon has no stable compiler yet
 // Docs: https://github.com/carbon-language/carbon-lang
 

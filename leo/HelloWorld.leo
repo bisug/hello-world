@@ -1,5 +1,6 @@
 // Leo
 // Leo is a language for private applications on Aleo.
+// Type: compiled
 // Run: (Requires project scaffold) leo build
 // Docs: https://leo-lang.org/
 

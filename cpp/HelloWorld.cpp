@@ -1,5 +1,6 @@
 // C++
 // C++ adds classes and templates to C and is used where control and speed matter.
+// Type: compiled
 // Run: g++ HelloWorld.cpp -o hello && ./hello
 // Docs: https://isocpp.org/
 
