@@ -47,7 +47,7 @@ This is a learning reference for `Hello, World!` in many programming languages. 
 - [F#](fsharp/) - functional language on .NET.
 - [VB.NET](vbnet/) - the Visual Basic language for .NET.
 
-## Scripting and web
+## Scripting
 
 - [Python](python/) - general purpose language used for scripts, web back ends, and data work.
 - [PHP](php/) - server language that powers much of the web.
@@ -57,28 +57,34 @@ This is a learning reference for `Hello, World!` in many programming languages. 
 - [Tcl](tcl/) - scripting language used for tools and testing.
 - [AWK](awk/) - processes text files one line at a time.
 - [sed](sed/) - stream editor for filtering and changing text.
+- [Nix](nix/) - language for describing packages and system builds.
+- [Raku](raku/) - language with many ways to express the same idea.
+- [Julia](julia/) - built for numerical work and compiles at run time.
+- [GNUplot](gnuplot/) - scripting language for plotting data and functions.
+
+## Shells
+
 - [Bash](bash/) - the shell used on most Linux systems.
 - [Zsh](zsh/) - shell with stronger completion and prompts than Bash.
 - [Fish](fish/) - shell built for clear syntax and good defaults.
 - [PowerShell](powershell/) - shell and scripting language from Microsoft.
 - [Batch](batch/) - the command script language of Windows.
-- [Nix](nix/) - language for describing packages and system builds.
-- [Raku](raku/) - language with many ways to express the same idea.
-- [Julia](julia/) - built for numerical work and compiles at run time.
-- [Dart](dart/) - used for Flutter apps and web code.
-- [JavaScript](javascript/) - the main language of the browser and runs on servers too.
-- [TypeScript](typescript/) - adds static types to JavaScript.
-- [CoffeeScript](coffeescript/) - compiles short syntax into JavaScript.
-- [WebAssembly text](wat/) - text form of WebAssembly modules.
-
 - [Tcsh](tcsh/) - Unix shell with C like syntax and command completion.
 - [Ksh](ksh/) - the Korn shell, a Unix shell with strong scripting features.
 - [Nushell](nushell/) - shell that works with structured data instead of plain text.
 - [Elvish](elvish/) - shell with a programming language for interactive work.
 - [Oil shell](oil/) - Unix shell with a typed language called YSH.
 - [xonsh](xonsh/) - shell that mixes Python with shell commands.
-- [GNUplot](gnuplot/) - scripting language for plotting data and functions.
+
+## Web
+
+- [Dart](dart/) - used for Flutter apps and web code.
+- [JavaScript](javascript/) - the main language of the browser and runs on servers too.
+- [TypeScript](typescript/) - adds static types to JavaScript.
+- [CoffeeScript](coffeescript/) - compiles short syntax into JavaScript.
+- [WebAssembly text](wat/) - text form of WebAssembly modules.
 - [GraphQL](graphql/) - query language for reading data from APIs.
+
 ## Functional
 
 - [Haskell](haskell/) - pure functional language with lazy evaluation.
